@@ -8,7 +8,7 @@ Been learning Python since May 2022 to become a Backend Developer. Shall get gra
 Windows, GIT, Python 3, PostgreSQL, Regular Expressions (re), Pygame, Requests, beautifulSoup (bs4),
 
 - 🌱 For now I’m learning:
-Django Framework, FastAPI, Flask, Httpio, Asyncio, Charmander, Apache, Nginx, REST, Postfix, KVM, Docker, Docker-compose, Celery, Redis
+Django Framework, FastAPI, Flask, Httpio, Docker, Docker-compose, Celery, Redis
 
 
 
