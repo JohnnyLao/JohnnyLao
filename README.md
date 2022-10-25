@@ -4,7 +4,7 @@ I've been working in refractory company VESUVIUS UK for last 6 years as Region S
 Graduated BOLASHAK as Interpreter of English and Italian languages in 2016.
 Been learning Python since May 2022 to become a Backend Developer. Shall get graduated in May 2023 with stack below:
 
-- 🔭 Here is my stack I know:
+- 🔭 Here is what I know:
 Windows, GIT, Python 3, PostgreSQL, Regular Expressions (re), Pygame, Requests, beautifulSoup (bs4),
 
 - 🌱 For now I’m learning:
