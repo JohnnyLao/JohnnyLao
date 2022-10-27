@@ -19,6 +19,6 @@ PostgreSQL ---> https://github.com/JohnnyLao/3-Databases
 Pygame ---> https://github.com/JohnnyLao/Project_Pygame_1
 
 Study certificates:
-1) English for developers   ---> https://github.com/JohnnyLao/Certificates/blob/main/English.pdf
+1) [English for developers](https://github.com/JohnnyLao/Certificates/blob/main/English.pdf)
 2) Python (v3)              ---> https://github.com/JohnnyLao/Certificates/blob/main/Python_3.pdf
 3) Databases (PostgreSQL)   ---> https://github.com/JohnnyLao/Certificates/blob/main/Databases.pdf
