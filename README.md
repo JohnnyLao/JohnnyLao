@@ -14,11 +14,12 @@ Django Framework, FastAPI, Flask, Httpio, Docker, Docker-compose, Celery, Redis
 
 - 💬 My code:
 
-PostgreSQL ---> https://github.com/JohnnyLao/3-Databases
-
-Pygame ---> https://github.com/JohnnyLao/Project_Pygame_1
+[PostgreSQL](https://github.com/JohnnyLao/3-Databases)
+[Regular expressions](https://github.com/JohnnyLao/4-Pro_Python/tree/main/HW2) (re) 
+[Pygame](https://github.com/JohnnyLao/Project_Pygame_1) (In progress)
 
 Study certificates:
 1) [English for developers](https://github.com/JohnnyLao/Certificates/blob/main/English.pdf)
-2) Python (v3)              ---> https://github.com/JohnnyLao/Certificates/blob/main/Python_3.pdf
-3) Databases (PostgreSQL)   ---> https://github.com/JohnnyLao/Certificates/blob/main/Databases.pdf
+2) [Python (v3)](https://github.com/JohnnyLao/Certificates/blob/main/Python_3.pdf)
+3) [Databases (PostgreSQL)](https://github.com/JohnnyLao/Certificates/blob/main/Databases.pdf)
+4) [Python for proffesion](https://github.com/JohnnyLao/Cerfiticates/blob/main/4_Pro_Python.pdf)
