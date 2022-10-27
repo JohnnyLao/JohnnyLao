@@ -15,7 +15,9 @@ Django Framework, FastAPI, Flask, Httpio, Docker, Docker-compose, Celery, Redis
 - 💬 My code:
 
 [PostgreSQL](https://github.com/JohnnyLao/3-Databases)
+
 [Regular expressions](https://github.com/JohnnyLao/4-Pro_Python/tree/main/HW2) (re) 
+
 [Pygame](https://github.com/JohnnyLao/Project_Pygame_1) (In progress)
 
 Study certificates:
