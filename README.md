@@ -22,6 +22,7 @@ Django Framework, FastAPI, Flask, Docker
 
 Study certificates:
 1) [English for developers](https://github.com/JohnnyLao/Cerfiticates/blob/main/English.pdf)
-2) [Python (v3)](https://github.com/JohnnyLao/Cerfiticates/blob/main/1_Python_3.pdf)
-3) [Databases (PostgreSQL)](https://github.com/JohnnyLao/Cerfiticates/blob/main/3_Databases.pdf)
-4) [Python for proffesion](https://github.com/JohnnyLao/Cerfiticates/blob/main/4_Pro_Python.pdf)
+2) [Git](https://github.com/JohnnyLao/Cerfiticates/blob/main/2_Git.pdf)
+3) [Python (v3)](https://github.com/JohnnyLao/Cerfiticates/blob/main/1_Python_3.pdf)
+4) [Databases (PostgreSQL)](https://github.com/JohnnyLao/Cerfiticates/blob/main/3_Databases.pdf)
+5) [Python for proffesion](https://github.com/JohnnyLao/Cerfiticates/blob/main/4_Pro_Python.pdf)
