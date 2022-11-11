@@ -10,7 +10,7 @@ Windows, GIT, Python 3, PostgreSQL, Regular Expressions (re), Pygame, Requests, 
 - 🌱 For now I’m learning:
 Django Framework, FastAPI, Flask, Docker
 
-
+---
 
 - 💬 My code:
 
@@ -18,9 +18,9 @@ Django Framework, FastAPI, Flask, Docker
 
 [Regular expressions](https://github.com/JohnnyLao/4-Pro_Python/tree/main/HW2) (re) 
 
-[Pygame](https://github.com/JohnnyLao/Project_Pygame_2)
+[Pygame](https://github.com/JohnnyLao/Project_Pygame_2) (in progress)
 
-Study certificates:
+My certificates:
 1) [English for developers](https://github.com/JohnnyLao/Cerfiticates/blob/main/English.pdf)
 2) [Git](https://github.com/JohnnyLao/Cerfiticates/blob/main/2_Git.pdf)
 3) [Python (v3)](https://github.com/JohnnyLao/Cerfiticates/blob/main/1_Python_3.pdf)
