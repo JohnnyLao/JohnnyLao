@@ -14,11 +14,9 @@ Django Framework, FastAPI, Flask, Docker
 
 - 💬 My code:
 
-[PostgreSQL](https://github.com/JohnnyLao/3-Databases)
-
-[Regular expressions](https://github.com/JohnnyLao/4-Pro_Python/tree/main/HW2) (re) 
-
-[Pygame](https://github.com/JohnnyLao/Project_Pygame_2) (in progress)
+  [PostgreSQL](https://github.com/JohnnyLao/3-Databases)
+  [Regular expressions](https://github.com/JohnnyLao/4-Pro_Python/tree/main/HW2) (re) 
+  [Pygame](https://github.com/JohnnyLao/Project_Pygame_2) (in progress)
 
 My certificates:
 1) [English for developers](https://github.com/JohnnyLao/Cerfiticates/blob/main/English.pdf)
